@@ -1,6 +1,6 @@
 # spring-boot-async-task-master
 
-You.ll build a lookup service that queries GitHub user information and retrieves data through GitHub.s API. One approach to scaling services is to run expensive jobs in the background and wait for the results using Java.s CompletableFuture interface. Java.s CompletableFuture is an evolution from the regular Future. It makes it easy to pipeline multiple asynchronous operations merging them into a single asynchronous computation.
+You.ll build a lookup service that queries  user information and retrieves data through other API. One approach to scaling services is to run expensive jobs in the background and wait for the results using Java.s CompletableFuture interface. Java.s CompletableFuture is an evolution from the regular Future. It makes it easy to pipeline multiple asynchronous operations merging them into a single asynchronous computation.
 
 
 
